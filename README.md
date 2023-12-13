@@ -1,7 +1,7 @@
 # Survive Nights
 A Horror Based Survival Game created using Unity Game Engine (Editor Version: 2021.3.6f1). As the name tells the player has to survive the horror in the forest and try to escape through portal, where he needs to collect crystal through different villages, and the player should fight against the zombies and not get afraid of jump scares before the day light starts to come, later the player realises he himself was a zombie and had little awareness. Can you make him survive through the night and escape? 🤓
 
-## Player Controls
+## Player Control Actions
 
 |Controls|Action  |
 |--|--|
